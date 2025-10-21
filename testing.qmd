@@ -1,0 +1,16 @@
+---
+title: "Testingdoc"
+author: "zahra khan"
+format: html
+---
+
+Testing
+
+```{r}
+a <- 10
+b <- 20
+a + b 
+c <- a + b
+c^2
+```
+
