@@ -1,2 +1,4 @@
 # repo-zk
-practicing version control in r
+Practicing version control in R
+
+Practicing how to pull changes from GitHub to R
