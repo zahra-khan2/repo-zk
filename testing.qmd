@@ -7,10 +7,16 @@ format: html
 Testing
 
 ```{r}
+library(tidyverse)
+library(palmerpenguins)
 a <- 10
 b <- 20
 a + b 
 c <- a + b
 c^2
+
+hist(penguins$bill_length_mm)
+
 ```
+
 
